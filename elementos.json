@@ -1,0 +1,74 @@
+[
+    {
+        "id":0,
+        "nombre":"Mole Negro",
+        "precio": 64.00,
+        "img":"img/molenegro.webp",
+        "descripcion":"Mole negro Origen Sano con aceite de oliva 250 g"
+    },
+
+    {
+        "id":1,
+        "nombre":"Mole Rosa",
+        "precio": 250.00,
+        "img":"img/molerosa.jpeg",
+        "descripcion":"Es un mole a base de pétalos de rosa, piñón, nueces, chocolate blanco, betabel y otros ingredientes"
+    },
+
+    {
+        "id":2,
+        "nombre":"Mole Rojo",
+        "precio": 78.00,
+        "img":"img/molerojo.webp",
+        "descripcion":"Mole Coro rojo en pasta de 535 g"
+    },
+
+    {
+        "id":3,
+        "nombre":"Manchamanteles",
+        "precio": 119.00,
+        "img":"img/manchamanteles.png",
+        "descripcion":"¡De Puebla para todo México! Maciza de Cerdo con pera, manzana y piña en un exquisito adobo."
+    },
+
+    {
+        "id":4,
+        "nombre":"Mole Coloradito",
+        "precio": 151.00,
+        "img":"img/molecoloradito.jpg",
+        "descripcion":"El mole coloradito es un tipo de salsa elaborada a base de chile ancho, chile pasilla, jitomate, ajo, almendras y especias."
+    },
+
+    {
+        "id":5,
+        "nombre":"Mole Amarillo",
+        "precio": 85.50,
+        "img":"img/moleamarillo.webp",
+        "descripcion":"Esperamos poner nuestro granito de arena compartiendo de una manera práctica e innovadora una de las riquezas más destacada de Oaxaca, la gastronomía."
+    },
+
+    {
+        "id":6,
+        "nombre":"Mole Chichilo",
+        "precio": 85.50,
+        "img":"img/molechichilo.webp",
+        "descripcion":"El chichilo es un mole oaxaqueño también llamado chichilo negro, es considerado uno de los siete moles más celebres de Oaxaca"
+    },
+
+    {
+        "id":7,
+        "nombre":"Mole Verde",
+        "precio": 66.00,
+        "img":"img/moleverde.webp",
+        "descripcion":"Mole verde Origen Sano 250 g"
+    },
+
+    {
+        "id":8,
+        "nombre":"Mole Blanco",
+        "precio": 75.00,
+        "img":"img/moleblanco.webp",
+        "descripcion":"Mole blanco Cocina Mestiza almendrado 180 g"
+    }
+
+]
